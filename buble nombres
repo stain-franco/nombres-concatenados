@@ -1,0 +1,8 @@
+public class concatenarNombres {
+    public static void main(String[] args) {
+        String [] nombres = {"camilo","arturo","richar"};
+        for (int i = 0; i<nombres.length; i++){
+            System.out.println(nombres[i]);
+        }
+    }
+}
